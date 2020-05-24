@@ -1,0 +1,7 @@
+server
+client
+.*
+!.gitignore
+obj/
+Downloads/
+ftp.log
